@@ -8,7 +8,7 @@ A simple Quarto academic website template.
 1.  Fork this repository
 2.  Edit `_quarto.yml`
 3.  Replace example content
-4.  Run:
+4.  Run in terminal:
 
 ``` terminal
 quarto render
@@ -17,7 +17,7 @@ quarto render
 ### Tips
 
 You can edit the website and see how the changes effects the website by
-running:
+running in the terminal:
 
 ``` terminal
 quarto preview
