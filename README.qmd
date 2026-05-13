@@ -1,4 +1,8 @@
-# Academic Website Template
+---
+title: "Academic Website Template"
+format: gfm
+---
+ 
 
 A simple Quarto academic website template for students.
 
