@@ -57,5 +57,5 @@ https://YOUR-USERNAME.github.io/REPOSITORY-NAME/
 Example:
 
 ``` text
-https://janedoe.github.io/my-academic-website/
+https://drmattg.github.io/Academic_website_template/
 ```
