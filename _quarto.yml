@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Rachel Carson's quarto website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research_interests.qmd
+        text: Research Interests
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
